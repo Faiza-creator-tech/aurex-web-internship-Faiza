@@ -38,7 +38,7 @@ but I practiced the basic workflow during Week 1.
 
 ## Completed Requirements
 
-- [x] GitHub repository created
+- [x] GitHub repository creat
 - [x] index.html created
 - [x] Personal profile webpage created
 - [x] Semantic HTML used
