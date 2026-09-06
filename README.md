@@ -2,7 +2,7 @@
 
 ## Intern Information
 
-Name: Faiza 
+Name: Faiza  M imran 
 Domain: Full-Stack Web Development  
 Week: Week 1
 
